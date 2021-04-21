@@ -1,0 +1,3 @@
+age,job,marital,education,default,housing,loan,contact,month,day_of_week,duration,campaign,pdays,previous,poutcome,emp.var.rate,cons.price.idx,cons.conf.idx,euribor3m,nr.employed,id,y,prediction_date
+37,services,married,high.school,no,yes,no,telephone,may,mon,226,1,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191,1aa8b6c8-334c-4ae4-8136-22f7df9de6cd,no,12/22/20
+40,admin.,married,basic.6y,no,no,no,telephone,may,mon,151,1,999,0,nonexistent,1.1,93.994,-36.4,4.857,5191,2aa8b6c8-334c-4ae4-8136-22f7df9de6cd,no,1/2/21
